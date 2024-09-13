@@ -1,2 +1,1 @@
-# desafio5_forbes_py_pandas
-WoMaKersCode_Data_Analytics
+Exercício individual #womakerscode #dataanalytics
